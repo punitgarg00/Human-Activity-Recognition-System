@@ -38,4 +38,4 @@ This project implements a pipeline for human activity recognition using pose est
     Use 5train_model.py to train activity classification models. This script will also generate evaluation plots.
 
 5. Real-Time Classification
-    Run 6realtime.py to perform live activity recognition providing your video path.
+    Run 6realtime.py to perform live activity recognition providing your video path
