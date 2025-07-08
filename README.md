@@ -39,3 +39,5 @@ This project implements a pipeline for human activity recognition using pose est
 
 5. Real-Time Classification
     Run 6realtime.py to perform live activity recognition providing your video path
+
+   .
